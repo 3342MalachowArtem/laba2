@@ -1,0 +1,1 @@
+void input(int *size, int *a, int *arr);
